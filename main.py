@@ -38,6 +38,7 @@ async def on_message(message):
             + ", ".join(["`" + s + "`" for s in decomposition])
             + ")"
         )
+        print(f"Decomposed message: {message.content} -> {decomposition}")
 
 
 client.run(os.getenv("TOKEN"))
