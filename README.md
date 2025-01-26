@@ -2,6 +2,9 @@
 
 This project is a Discord bot that analyzes user messages to determine if they can be represented using symbols from the periodic table of elements. If a message qualifies, the bot responds with the decomposition of the message into periodic table symbols.
 
+![image](https://github.com/user-attachments/assets/cbd9ff04-2b0f-4072-9c11-e0b3c77d18e3)
+
+
 ## Features
 
 - Responds to messages in Discord channels.
