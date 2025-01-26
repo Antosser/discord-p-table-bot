@@ -1,0 +1,7 @@
+services:
+  p-table-bot:
+    build: .
+    container_name: p-table-bot
+    env_file:
+      - .env
+    restart: always
